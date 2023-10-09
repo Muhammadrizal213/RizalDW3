@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: bisque;
+}
+
+header nav ul{
+    display: flex;
+    gap: 30px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+header nav ul li a {
+    color:  red;
+}
+img{
+            width: 800px;
+            height: 450px;
+        }
